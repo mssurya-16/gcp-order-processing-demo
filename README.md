@@ -15,6 +15,8 @@ Client
 → Cloud Run (Order API – Stateless)  
 → Pub/Sub (order-events topic)  
 
+![Architecture](architecture.png)
+
 ### Key Characteristics
 - Stateless API
 - Asynchronous event-driven design
