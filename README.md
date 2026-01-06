@@ -77,7 +77,6 @@ Alerting can be configured to detect missing order events
 - Visualized order ingestion trends using Cloud Monitoring
 - Configured metric-absence alerts to detect order pipeline failures
 - Focused on reducing MTTR by alerting on customer-impact signals
-
   
 ## Security
 
