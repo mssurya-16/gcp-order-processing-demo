@@ -72,6 +72,13 @@ Logs can be converted into log-based metrics
 
 Alerting can be configured to detect missing order events
 
+## SRE & Reliability
+- Designed business-level SLIs using log-based metrics derived from application logs
+- Visualized order ingestion trends using Cloud Monitoring
+- Configured metric-absence alerts to detect order pipeline failures
+- Focused on reducing MTTR by alerting on customer-impact signals
+
+  
 ## Security
 
 Cloud Run service uses a dedicated service account
@@ -97,6 +104,7 @@ Persist orders to Cloud SQL
 Introduce DLQ and retry policies
 
 Secure API with authentication and Cloud Armor
+
 
 
 ## Author
