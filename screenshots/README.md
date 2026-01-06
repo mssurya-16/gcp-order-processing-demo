@@ -15,5 +15,5 @@
 ### Alert Policy
 ![Alert Policy](alert-policy.png)
 
-### Alert Policy
+### Alert Email
 ![Alert Policy](alert-email.jpg)
